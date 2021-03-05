@@ -40,4 +40,6 @@ body{
     background-size: cover;
     background-attachment: fixed; 
 }
-
+.common{
+  color: rgba(45, 48, 42, 0.979);
+}
