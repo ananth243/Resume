@@ -35,7 +35,7 @@
   }
 
 body{
-    background-image: url('./img/Profile.jpeg');
+    background-image: url('Profile.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed; 
